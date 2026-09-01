@@ -1,0 +1,3 @@
+Plugins used: 
+- Shibumi
+- Omatype 
